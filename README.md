@@ -1,4 +1,5 @@
-# ControleEstoque
-Projeto para controlar o estoque de uma micro-empresa 
+## 📦 Sistema de Controle de Estoque e Financeiro
 
-Disponível para teste em: https://controleestoque-web.azurewebsites.net/
+Desenvolvi um sistema completo para controle de **estoque e financeiro** de uma microempresa. O sistema permite gerenciar produtos, entradas e saídas, além de acompanhar o fluxo financeiro da empresa de forma simples e eficiente.
+
+🔗 [Acesse o sistema para testes](https://controleestoque-web.azurewebsites.net/)
